@@ -1,10 +1,11 @@
 ## Eae sou o Migliatti
 - 👀 Estou interessado, áreas voltadas para HTML5, CSS3 e JavaScript
 - 🌱 Atualmente estou me especializando em JavaScript para Web
+##
 <div align="center">
   <a href="https://github.com/Migliatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Migliatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migliatti&layout=compact&langs_count=7&theme=dark"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api?username=Migliatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migliatti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>

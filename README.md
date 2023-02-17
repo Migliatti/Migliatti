@@ -1,6 +1,6 @@
 ## Eae sou o Migliatti
 - 👀 Estou interessado, áreas voltadas para HTML5, CSS3 e JavaScript
-- 🌱 Atualmente estou me especializando em JavaScript para Web
+- 🌱 Atualmente estou me especializando em React e Scss para Web
 ##
 <div align="center">
   <a href="https://github.com/Migliatti">

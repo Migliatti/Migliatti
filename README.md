@@ -1,23 +1,34 @@
-## Eae sou o Migliatti
-- 👀 Estou interessado, áreas voltadas para HTML5, CSS3 e JavaScript
-- 🌱 Atualmente estou me especializando em React e Scss para Web
-##
-<div align="center">
-  <a href="https://github.com/Migliatti">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Migliatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migliatti&layout=compact&langs_count=7&theme=dark"/>
-</div>
+# Bem-vindo(a) ao meu perfil do GitHub!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="migliatti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="migliatti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="migliatti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.instagram.com/gabrielmigliatt_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabimpariz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-migliatti-5b680422a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Sobre mim
+Olá! Sou o Gabriel Migliatti, um desenvolvedor apaixonado por criar experiências web incríveis. Tenho experiência e conhecimento em várias tecnologias, incluindo HTML, CSS, JavaScript, TypeScript, Sass, Git e React.js.
+
+## Habilidades e Tecnologias
+Aqui estão algumas das minhas principais habilidades e tecnologias em destaque:
+
+- Linguagens de Programação: HTML, CSS, JavaScript, TypeScript
+- Pré-processadores: Sass
+- Controle de Versão: Git
+- Frameworks: React.js
+- Metodologia: Desenvolvimento Ágil
+
+## Projetos Destacados
+- Alura-Geek: Loja online que vende produtos geeks, trabalhei com context api e com javascript para manipulação dos produtos.
+- Casa-Verde: Home page de uma loja te plantas utilizei react.ts para fazelo.
+- Alura-Book: Loja de livros feito utilizando javascript puro.
+
+Fique à vontade para explorar meus repositórios para encontrar mais projetos e experimentos em que estou trabalhando.
+
+## Objetivos
+- Aprofundar meu conhecimento em React.ts e desenvolvimento front-end.
+- Aprender novas tecnologias e frameworks relacionados ao desenvolvimento web.
+- Contribuir para projetos open source e colaborar com outros desenvolvedores.
+
+## Contato
+Você pode entrar em contato comigo pelos seguintes meios:
+
+- E-mail: gabimpariz@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/gabriel-migliatti-5b680422a/">Migliatti</a>
+
+Estou aberto a oportunidades de desenvolvimento, colaborações em projetos interessantes e troca de conhecimentos!
+

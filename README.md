@@ -10,7 +10,7 @@ Aqui estão algumas das minhas principais habilidades e tecnologias em destaque:
 - Pré-processadores: Sass
 - Controle de Versão: Git
 - Frameworks: React.js
-- Metodologia: Desenvolvimento Ágil
+- Metodologia: Desenvolvimento Ágil, Mobile First
 
 ## Projetos Destacados
 - Alura-Geek: Loja online que vende produtos geeks, trabalhei com context api e com javascript para manipulação dos produtos.

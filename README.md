@@ -5,9 +5,9 @@
 
 ##
 
-# Projeto que mais me orgulho
+#### Projeto que mais me orgulho
 
-[pokepokedex](https://poke-poke-dex.vercel.app/)
+[pokedex](https://poke-poke-dex.vercel.app/) - Projeto feio em React e TypeScript
 
 ##
 

@@ -5,6 +5,12 @@
 
 ##
 
+# Projeto que mais me orgulho
+
+[pokepokedex](https://poke-poke-dex.vercel.app/)
+
+##
+
 <div>
   <img align="center" alt="Migliatti-React" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="migliatti-typescript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 

@@ -1,34 +1,21 @@
-# Bem-vindo(a) ao meu perfil do GitHub!
+### Seja bem vindo👋🏼
 
-## Sobre mim
-Olá! Sou o Gabriel Migliatti, um desenvolvedor apaixonado por criar experiências web incríveis. Tenho experiência e conhecimento em várias tecnologias, incluindo HTML, CSS, JavaScript, TypeScript, Sass, Git e React.js.
+- 📘 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Procurando primeira oportunidade pra ingressar no mercado
 
-## Habilidades e Tecnologias
-Aqui estão algumas das minhas principais habilidades e tecnologias em destaque:
+##
 
-- Linguagens de Programação: HTML, CSS, JavaScript, TypeScript
-- Pré-processadores: Sass
-- Controle de Versão: Git
-- Frameworks: React.js
-- Metodologia: Desenvolvimento Ágil, Mobile First, single-page application (SPA)
+<div>
+  <img align="center" alt="Migliatti-React" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="migliatti-typescript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img align="center" alt="Migliatti-Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="migliatti-sass" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</div>
+  
+##
 
-## Projetos Destacados
-- Alura-Geek: Loja online que vende produtos geeks, trabalhei com context api e com javascript para manipulação dos produtos.
-- Casa-Verde: Home page de uma loja te plantas utilizei react.ts para fazelo.
-- Alura-Book: Loja de livros feito utilizando javascript puro.
-
-Fique à vontade para explorar meus repositórios para encontrar mais projetos e experimentos em que estou trabalhando.
-
-## Objetivos
-- Aprofundar meu conhecimento em React.ts e desenvolvimento front-end.
-- Aprender novas tecnologias e frameworks relacionados ao desenvolvimento web.
-- Contribuir para projetos open source e colaborar com outros desenvolvedores.
-
-## Contato
-Você pode entrar em contato comigo pelos seguintes meios:
-
-- E-mail: gabimpariz@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/gabriel-migliatti-5b680422a/">Migliatti</a>
-
-Estou aberto a oportunidades de desenvolvimento, colaborações em projetos interessantes e troca de conhecimentos!
-
+<div>
+  <a href="https://www.instagram.com/miglia.ttttttt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-migliatti/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+</div>

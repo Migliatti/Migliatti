@@ -49,7 +49,7 @@ E sim, eu quebro muita coisa no caminho. Mas documentar o que deu errado faz par
 
 ## 📫 Se quiser falar comigo:
 
-- LinkedIn: [seu-perfil-aqui]
+- LinkedIn: [Gabriel Migliatti](https://www.linkedin.com/in/gabriel-migliatti/)
 - Email: `gabimpariz@gmail.com`  
 (Aviso: eu demoro pra responder. Não é falta de educação, é porque provavelmente estou quebrando alguma VM.)
 

@@ -1,6 +1,7 @@
 # Bem-vindo ao biruta's place
 
 C ta vendo o perfil de alguém que entrou em TI do jeito mais clássico possível: clicando onde não devia e quebrando o que não sabia
+
 curioso desde pivete, autodidata por necessidade, e hoje focado em cibersegurança porque... bom, segurança ofensiva é o tipo de coisa que faz o sangue circular
 
 Atualmente vivo no terminal, pacotes de rede voando e documentações abertas em 14 abas

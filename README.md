@@ -1,55 +1,95 @@
-# Bem-vindo ao biruta's place
 
-C ta vendo o perfil de alguém que entrou em TI do jeito mais clássico possível: clicando onde não devia e quebrando o que não sabia
+# ~/profile
 
-curioso desde pivete, autodidata por necessidade, e hoje focado em cibersegurança porque... bom, segurança ofensiva é o tipo de coisa que faz o sangue circular
+```
 
-Atualmente vivo no terminal, pacotes de rede voando e documentações abertas em 14 abas
+ $$$$$$\                          $$\   $$\                                             
+$$  __$$\                         $$ |  $$ |                                            
+$$ /  \__|$$\   $$\ $$$$$$\$$$$\  $$ |  $$ |$$$$$$\$$$$\  $$\   $$\  $$$$$$$\  $$$$$$\  
+$$$$\     $$ |  $$ |$$  _$$  _$$\ $$$$$$$$ |$$  _$$  _$$\ $$ |  $$ |$$  _____|$$  __$$\ 
+$$  _|    $$ |  $$ |$$ / $$ / $$ |\_____$$ |$$ / $$ / $$ |$$ |  $$ |\$$$$$$\  $$ /  $$ |
+$$ |      $$ |  $$ |$$ | $$ | $$ |      $$ |$$ | $$ | $$ |$$ |  $$ | \____$$\ $$ |  $$ |
+$$ |      \$$$$$$  |$$ | $$ | $$ |      $$ |$$ | $$ | $$ |\$$$$$$  |$$$$$$$  |\$$$$$$$ |
+\__|       \______/ \__| \__| \__|      \__|\__| \__| \__| \______/ \_______/  \____$$ |
+                                                                              $$\   $$ |
+                                                                              \$$$$$$  |
+                                                                               \______/ 
 
-> *"Lute como se fosse o terceiro macaco na rampa da arca de Noé... e irmão, está começando a chover."*
+```
 
-
-## O que eu tô estudando agora
-
-- Cibersegurança (com ênfase em quebrar as coisas de forma **educativa**)
-- Redes (configurando, testando e fuçando)
-- Linux (meu sistema principal é Arch com Hyprland porque s)
-- Ferramentas como `nmap`, `Wireshark`, `mitmproxy`, entre outras malandragens técnicas
-
-## Como eu aprendo
-
-Se tem um problema, eu primeiro tento entender. Depois eu procuro documentação.  
-Se não resolver, eu não peço ajuda: eu durmo. Acordo. Tento de novo.
-
-Cursos me limitam. Prefiro cavar fundo nos assuntos que realmente me importam.  
-E sim, eu quebro muita coisa no caminho. Mas documentar o que deu errado faz parte.
-
-
-## Repositórios em construção (igual minha sanidade)
-
-- `mitmproxy-documentacao`: tudo o que eu aprendi metendo o dedo no tráfego HTTP/S.
-- `redes-basico`: IP, ping, traceroute e outras magias negras.
-- `labs-portswigger`: minhas anotações suadas nos laboratórios da Web Security Academy.
-- `scripts-python-automatizacao`: coisinhas que fazem o terminal trabalhar por mim.
-
-(*Links reais virão assim que eu estruturar isso tudo. Calma.*)
-
-
-## Filosofia de vida & tecnologia
-
-- Resolver problema é igual briga de rua: ou você aprende na hora ou apanha.
-- Estudar TI me dá uma sensação de liberdade que nenhum curso consegue dar.
-- Erro não é falha, é log. E log bom é o que a gente lê e entende.
-
-
-## Se quiser falar comigo:
-
-- LinkedIn: [Gabriel Migliatti](https://www.linkedin.com/in/gabriel-migliatti/)
-- Email: `gabimpariz@gmail.com`  
+perfil de estudo e documentação.  
+foco em segurança ofensiva, redes, automação e linux.  
+nada aqui é definitivo, tudo tá em mutação.
 
 ---
 
-## 🚧 Work in Progress
+## [ estudos ativos ]
 
-Esse perfil tá sempre mudando, igual meu humor quando o sistema não bootar.  
-Segue aí e volta depois. Vai ter coisa nova.
+```
+
+* pentest / bug bounty
+* redes (scans, captura, análise)
+* linux (arch + hyprland)
+* ferramentas: nmap, mitmproxy, wireshark, burp, sqlmap
+
+```
+
+---
+
+## [ método ]
+
+```
+
+→ entende o problema
+→ lê a documentação
+→ se travar: para, volta depois
+→ repete até quebrar ou entender
+
+```
+
+sem curso. sem passo a passo.  
+aprender = quebrar > observar > repetir.
+
+---
+
+## [ repositórios em andamento ]
+
+```
+
+/mitmproxy-documentacao        -> análise de tráfego HTTP/S na marra
+/redes-basico                  -> ping, traceroute, netcat, tcpdump
+/labs-portswigger              -> anotações dos labs da web security academy
+/scripts-python-automatizacao -> automação pra facilitar a vida no terminal
+
+```
+
+a maioria tá incompleto. vai tomando forma conforme eu estudo.
+
+---
+
+## [ visão ]
+
+```
+
+⚠ resolver bug é briga de rua: aprende ou apanha
+⚠ erro não é falha, é dado
+⚠ liberdade técnica > ensino formal
+
+```
+
+---
+
+## [ contato ]
+
+`gabimpariz@proton.me`
+
+---
+
+## [ estado ]
+
+```
+
+status: wip
+uptime: variável
+
+```

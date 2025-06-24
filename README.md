@@ -21,7 +21,6 @@ perfil de estudo e documentação.
 foco em segurança ofensiva, redes, automação e linux.  
 nada aqui é definitivo, tudo tá em mutação.
 
----
 
 ## [ estudos ativos ]
 
@@ -34,7 +33,6 @@ nada aqui é definitivo, tudo tá em mutação.
 
 ```
 
----
 
 ## [ método ]
 
@@ -50,7 +48,6 @@ nada aqui é definitivo, tudo tá em mutação.
 sem curso. sem passo a passo.  
 aprender = quebrar > observar > repetir.
 
----
 
 ## [ repositórios em andamento ]
 
@@ -65,7 +62,6 @@ aprender = quebrar > observar > repetir.
 
 a maioria tá incompleto. vai tomando forma conforme eu estudo.
 
----
 
 ## [ visão ]
 
@@ -77,13 +73,11 @@ a maioria tá incompleto. vai tomando forma conforme eu estudo.
 
 ```
 
----
 
 ## [ contato ]
 
 `gabimpariz@proton.me`
 
----
 
 ## [ estado ]
 

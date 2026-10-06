@@ -13,7 +13,7 @@
 | **Hoje** | Suporte de T.I. · estudando backend |
 | **Buscando** | Estágio em desenvolvimento backend (presencial, híbrido ou remoto) |
 | **Formação** | Ciência da Computação — cursando (EAD) |
-| **Contato** | [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) · gabimpariz@icloud.com |
+| **Contato** | [LinkedIn](https://www.linkedin.com/in/gabriel-migliatti) · gabimpariz@icloud.com |
 
 ## ◈ Sobre
 

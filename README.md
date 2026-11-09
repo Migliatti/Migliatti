@@ -46,7 +46,7 @@ e conteúdo científico curado.
 Combina navegação interativa, testes unitários e recursos de
 acessibilidade, como movimento reduzido e alto contraste.
 
-**TypeScript · React · Three.js · Vite**
+**JavaScript · React · Three.js · Vite**
 
 [Explorar aplicação](https://kepler-lab-gamma.vercel.app/) ·
 [Estudo de caso](https://migliatti.vercel.app/pt/projetos/kepler-lab)
